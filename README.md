@@ -50,8 +50,5 @@ and hands-on TryHackMe practice.
 - ✅ Coding for Beginners Certificate
 - 🔄 Google Cybersecurity Certificate *(in progress)*
 ---
-## 📫 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?
-style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINK-HERE)
----
-*"I don't just build things — I build things that protect people."*
+
+*"I don't just build things — I build things that protect and help people."*
